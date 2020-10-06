@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <a title="Gmail" href="mailto:rohinth.1901202@srec.ac.in">
   <img align="left" alt="Rohinth's Gmail" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/mail.svg" width="30px">
 </a>
-<a title="Instagram ID" href="https://www.instagram.com/_alert_panda_on_board_/">
-  <img align="left" alt="Rohinth's Instagram" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/instagram.svg" width="30px">
-</a>
 <br clear="all"/>
 <h4>
 I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
@@ -46,5 +43,3 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 ### Languages and Tools
 <img title="Android" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40px">
 <img title="Python" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px">
-<img title="PHP" align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="40px">
-<br clear="all"/><br/><br/><br/>
