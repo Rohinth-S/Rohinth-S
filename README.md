@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Contact Me</h2><br/>
+<h2>Contact Me</h2>
 
 <a title="Twitter" href="https://twitter.com/RohinthS1">
   <img align="left" alt="Rohinth Twitter" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/twitter-circled.svg" width="30px">
@@ -35,6 +35,7 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👌 Love to develop in **HTML** / **PHP** / **Java**
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
+<br/>
 
 <a title="Rohinth's github stats" href="https://github.com/Rohinth-S/">
   <img alt="Rohinth's github stats" src="https://github-readme-stats.vercel.app/api?username=Rohinth-S&include_all_commits=true&show_icons=true&theme=nightowl" />
