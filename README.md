@@ -32,7 +32,7 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 </h4>
 
 - 🌱 Currently learning how to develop mobile apps for Android.
-- 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
+- 🤔 Ping me, surely we will have an productive conversation.
 - 👌 Love to develop in **HTML** / **PHP** / **Java**
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 <br/>
