@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 <a title="Twitter" href="https://twitter.com/RohinthS1">
-  <img align="left" alt="Rohinth Twitter" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/master/assets/twitter-circled.svg" width="30px">
+  <img align="left" alt="Rohinth Twitter" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/twitter-circled.svg" width="30px">
 </a>
 <a title="Instagram ID" href="https://www.instagram.com/_alert_panda_on_board_/">
-  <img align="left" alt="Rohinth's Instagram" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/master/assets/instagram.svg" width="30px">
+  <img align="left" alt="Rohinth's Instagram" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/instagram.svg" width="30px">
 </a>
 <br clear="all"/>
 <h4>
