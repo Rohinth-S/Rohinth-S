@@ -23,9 +23,15 @@ Here are some ideas to get you started:
 <a title="Instagram ID" href="https://www.instagram.com/_alert_panda_on_board_/">
   <img align="left" alt="Rohinth's Instagram" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/instagram.svg" width="30px">
 </a>
+<a title="Gmail" href="mailto:rohinth.1901202@srec.ac.in">
+  <img align="left" alt="Rohinth's Gmail" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/mail.svg" width="30px">
+</a>
+<a title="Instagram ID" href="https://www.instagram.com/_alert_panda_on_board_/">
+  <img align="left" alt="Rohinth's Instagram" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/instagram.svg" width="30px">
+</a>
 <br clear="all"/>
 <h4>
-I'm a 18 year old Android and Web Developer. Currently doing my BE in Computer Science and Engineering.<br/>
+I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 </h4>
 
 - 🌱 Currently learning how to develop mobile apps for Android.
