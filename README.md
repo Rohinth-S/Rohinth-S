@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h2>Contact Me</h2><br/>
 
 <a title="Twitter" href="https://twitter.com/RohinthS1">
   <img align="left" alt="Rohinth Twitter" src="https://raw.githubusercontent.com/Rohinth-S/Rohinth-S/main/assets/twitter-circled.svg" width="30px">
