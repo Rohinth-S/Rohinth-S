@@ -37,9 +37,13 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 <br/>
 
-<a title="Rohinth's github stats" href="https://github.com/Rohinth-S/">
+<a title="Rohinth's github stats" href="https://github.com/TheRohinth/">
   <img alt="Rohinth's github stats" src="https://github-readme-stats.vercel.app/api?username=Rohinth-S&include_all_commits=true&show_icons=true&theme=nightowl" />
 </a><br/>
+<h4>
+Profile visitor count.<br/>
+</h4>
+![Visitor Count](https://profile-counter.glitch.me/{TheRohinth}/count.svg)
 
 ### Languages and Tools
 <img title="Android" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40px">
