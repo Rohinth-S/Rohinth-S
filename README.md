@@ -41,6 +41,8 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
   <img alt="Rohinth's github stats" src="https://github-readme-stats.vercel.app/api?username=Rohinth-S&include_all_commits=true&show_icons=true&theme=nightowl" />
 </a><br/>
 
+![Visitor Count](https://profile-counter.glitch.me/{TheRohinth}/count.svg)
+
 ### Languages and Tools
 <img title="Android" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40px">
 <img title="Python" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px">
