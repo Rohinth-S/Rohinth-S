@@ -38,7 +38,7 @@ I'm Rohinth, Currently doing my BE in Computer Science and Engineering.<br/>
 <br/>
 
 <a title="Rohinth's github stats" href="https://github.com/TheRohinth/">
-  <img alt="Rohinth's github stats" src="https://github-readme-stats.vercel.app/api?username=Rohinth-S&include_all_commits=true&show_icons=true&theme=nightowl" />
+  <img alt="Rohinth's github stats" src="https://github-readme-stats.vercel.app/api?username=TheRohinth&include_all_commits=true&show_icons=true&theme=nightowl" />
 </a><br/>
 <h4>
 Profile visitor count.<br/>
